@@ -19,6 +19,6 @@
 <body>
     <h1>Hello, I'm Jingjie He 👋</h1>
     <p>Welcome to my personal website — researcher, engineer, and poet.</p>
-    <p>Check out my projects on <a href="https://github.com/jingjiehe" target="_blank">GitHub</a>.</p>
+
 </body>
 </html>
